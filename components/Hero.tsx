@@ -8,9 +8,9 @@ function Hero() {
                 {/* intro */}
                 <div className="md:w-1/2 text-center md:text-left">
                     <h2 className="text-2xl text-transparent bg-clip-text bg-gradient-to-r from-green-500 to-white sm:text-2xl md:text-3xl font-bold text-gray-200 mb-4">
-                        {`Hello, I'm Jesse <br />
+                        {`Hello, I'm Jesse`} <br />
                         Fontend Web Developer <br />
-                        Based in Jos`}
+                        Based in Jos
                     </h2>
                     <p className="text-gray-200 text-lg">
                         I build responsive, user-friendly websites and web apps using modern tools like React, Next.js, and Tailwind CSS.
