@@ -2,7 +2,8 @@ import About from '@/components/About';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
-import Home from '@/components/Home';
+import Hero from '@/components/Hero';
+import Home from '@/components/Home(mine)';
 import Projects from '@/components/Projects';
 import Skills from '@/components/Skills';
 import React from 'react'
@@ -11,7 +12,7 @@ function index() {
   return (
     <>
       <Header />
-      <Home />
+      <Hero />
       <About />
       <Skills />
       <Projects />
