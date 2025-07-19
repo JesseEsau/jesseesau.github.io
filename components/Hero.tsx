@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 function Hero() {
     return (
-        <section className="bg-black py-16 pt-[6rem] md:pt-[10rem] text-white">
+        <section id='home' className="bg-black py-16 pt-[6rem] md:pt-[10rem] text-white">
             <div className="max-w-8xl mx-auto px-6 flex flex-col md:flex-row md:px-14 lg:px-20 items-center gap-12">
 
                 {/* intro */}
